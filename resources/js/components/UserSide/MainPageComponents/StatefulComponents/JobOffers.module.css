@@ -1,0 +1,12 @@
+.anchorColor {
+    color: #bdbdbd
+}
+
+.anchorColor:hover {
+    color: #fdc800
+}
+
+.imgSize {
+    width: 200px;
+    height: 256px;
+}

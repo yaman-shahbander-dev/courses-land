@@ -1,0 +1,16 @@
+.checkedStarFilled {
+    color: orange;
+}
+
+.starSize {
+    font-size: 30px;
+}
+
+.cursorPointer {
+    cursor: pointer;
+}
+
+.customizeVideoTitle {
+    display: inline;
+    margin-right: 20px !important;
+}
